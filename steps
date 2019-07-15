@@ -1,0 +1,11 @@
+Crear un nuevo proyecto Java
+Agregar Modulo Maven
+
+Agregar Framework para automatizar pruebas TestNG como plugin de TestNG
+
+Ir a la carpeta src/test/java y agregar nuevo paquete que contendrá las pruebas.
+
+Crear Nueva Clase donde se agregara el código.
+
+
+
