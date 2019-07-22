@@ -55,3 +55,7 @@ import static org.hamcrest.Matchers.*;
 
 Hamcrest Matchers http://hamcrest.org/JavaHamcrest/
 
+API
+GET http://umgapitests.azurewebsites.net/api/departamentos/2
+PUT http://umgapitests.azurewebsites.net/api/departamentos/2
+POST http://umgapitests.azurewebsites.net/api/departamentos
